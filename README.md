@@ -1,3 +1,12 @@
+### Edit
+I tried to enhance this model using various ways, addressing the main problems in Object detection in Aerial Images.
+I have written some theoretical notes, with the details of my experiments.
+Everything is documented in the report_en.pdf file.
+
+
+
+
+
 ### Align Deep Features for Oriented Object Detection
 
 ![](demo/network.png)
